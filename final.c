@@ -132,5 +132,5 @@ void file_rename()
 }
 void close(void)
 {
-     printf("This project has been created by MUSKAN AGARRWAL(43), MANASSA SHARMA(44), PRATYUSHA KARMAKAR(45).\n");
+     printf("This project has been created by DEBAYAN DAM.\n");
 }
